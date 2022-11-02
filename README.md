@@ -1,4 +1,4 @@
-Hey, I'm NOPe, a student interested in programming and computer science who works on projects for fun
+Hey, I'm Arvind, a freshman interested in programming and computer science who works on projects for fun.
 
 
 <!---
